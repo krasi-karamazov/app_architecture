@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/menu_item_padding"
+    android:paddingTop="@dimen/menu_item_padding"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/img_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:paddingLeft="12dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/app_icon_twitter" >
+        </ImageView>
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="start|center"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/C:/Users/krasi/Desktop/inboxdollars-1d8aa89f0f8adc908e88c3fe4be1f69163138e95/simple_architecture/app/src/main/res/layout/list_item_drawer.xml -->

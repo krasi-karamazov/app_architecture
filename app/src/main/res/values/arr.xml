@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_drawer_labels">
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+        <item>@string/menu_item</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+        <item>@drawable/app_icon_twitter</item>
+    </array>
+    <array name="starts_activity_flags">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </array>
+</resources>
